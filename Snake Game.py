@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 """
 Snake Eater
 Made with PyGame
